@@ -1,0 +1,21 @@
+html {
+	font-family: 'Nunito';
+}
+
+body {
+  font-family: 'Nunito';
+  color: #5c6269;
+}
+
+h1 {
+	font-weight: 600;
+}
+
+/*WORK SECTION*/
+.work i.fa {
+	font-size: 8rem;
+}
+
+.work .title {
+	margin-top: 2rem;
+}
