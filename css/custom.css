@@ -11,6 +11,10 @@ h1 {
 	font-weight: 600;
 }
 
+.bg-patpat {
+	background-color: #003c89 !important;
+}
+
 /*WORK SECTION*/
 .work i.fa {
 	font-size: 8rem;
@@ -18,4 +22,9 @@ h1 {
 
 .work .title {
 	margin-top: 2rem;
+}
+
+.work p {
+	padding-left: 0.7rem;
+	padding-right: 0.7rem;
 }
