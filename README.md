@@ -4,7 +4,7 @@
 
 ### Jumbotron
 
-+ Background is from [Freepik](http://www.freepik.com); modified
++ Jumbotron background by [Freepik](http://www.freepik.com); modified
 
 ### Images
 
