@@ -53,18 +53,22 @@ nav ul.navbar-nav li {
 	background-color: #eee;
 }
 
-.project .project-item {
-	padding: 5rem 2rem;
+.project-item {
+	padding: 5rem 2rem 2rem 2rem;
 }
 
-.project .project-title {
+.project-title {
 	font-weight: 600;
 }
 
-.project .project-item span.badge {
+.project-item span.badge {
 	font-size: 90%;
 	margin-right: 0.5rem;
 	margin-top: 0.5rem;
+}
+
+.project-item p {
+	opacity: 0.7;
 }
 
 .project-device {
@@ -78,3 +82,30 @@ nav ul.navbar-nav li {
 	}
 }
 
+.testimonial {
+	padding-top: 3rem;
+}
+
+.testimonial-text q {
+	font-size: 1.3rem;
+	font-weight: 600;
+}
+
+.testimonial-image {
+	text-align: right;
+}
+
+.testimonial-image img {
+	width: 35%;
+}
+
+@media(max-width: 767px) {
+	.testimonial-image {
+		margin-bottom: 1rem;
+		text-align: center;
+	}
+
+	.testimonial-image img {
+		width: 25%;
+	}
+}
