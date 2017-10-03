@@ -1,9 +1,9 @@
 html {
-	font-family: 'Nunito';
+	font-family: 'Open Sans';
 }
 
 body {
-  font-family: 'Nunito';
+  font-family: 'Open Sans';
   color: #5c6269;
 }
 
@@ -13,6 +13,19 @@ h1 {
 
 .bg-patpat {
 	background-color: #003c89 !important;
+}
+
+.slogan {
+	font-size: 3rem;
+	font-weight: 600;
+	margin-bottom: 7rem;
+}
+
+.jumbotron span.socmed a {
+	font-size: 1.8rem;
+	margin-right: 5px;
+	text-decoration: none;
+	color: inherit;
 }
 
 /*WORK SECTION*/
@@ -27,4 +40,9 @@ h1 {
 .work p {
 	padding-left: 0.7rem;
 	padding-right: 0.7rem;
+}
+
+nav ul.navbar-nav li {
+	font-size: 1.2rem;
+	font-weight: 600;
 }
