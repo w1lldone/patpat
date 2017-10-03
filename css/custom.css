@@ -46,3 +46,35 @@ nav ul.navbar-nav li {
 	font-size: 1.2rem;
 	font-weight: 600;
 }
+
+/*PROJECTS SECTION*/
+
+.project {
+	background-color: #eee;
+}
+
+.project .project-item {
+	padding: 5rem 2rem;
+}
+
+.project .project-title {
+	font-weight: 600;
+}
+
+.project .project-item span.badge {
+	font-size: 90%;
+	margin-right: 0.5rem;
+	margin-top: 0.5rem;
+}
+
+.project-device {
+	width: auto;
+	height: 80vw;
+}
+
+@media(min-width: 768px) {
+	.project-device {
+		height: 450px;
+	}
+}
+
