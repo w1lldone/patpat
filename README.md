@@ -12,4 +12,4 @@
 
 ### Logos
 
-+ Logo BMT by [Mujahid Ramadhan](https://www.facebook.com/romdon.well.allways)
++ Patpat logo by [Mujahid Ramadhan](https://www.facebook.com/romdon.well.allways)
