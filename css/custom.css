@@ -12,11 +12,19 @@ h1 {
 }
 
 .bg-patpat {
-	background-color: #003c89 !important;
+	background-color: #0277bd !important;
 }
 
 .text-patpat {
-	color: #003c89 !important;
+	color: #0277bd !important;
+}
+
+.bg-patpat-dark {
+	background-color: #004c8b !important;
+}
+
+.text-patpat-dark {
+	color: #004c8b !important;
 }
 
 .slogan {
@@ -30,6 +38,12 @@ h1 {
 	margin-right: 5px;
 	text-decoration: none;
 	color: inherit;
+}
+
+.jumbotron {
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+	margin-bottom: 0;
 }
 
 /*WORK SECTION*/
@@ -90,7 +104,7 @@ nav ul.navbar-nav li {
 	width: 85%;
 	margin: auto;
 	padding-top: 3rem;
-	border-top: 1px solid #ccc;
+	/*border-top: 1px solid #ccc;*/
 	border-bottom: 1px solid #ccc;
 }
 
