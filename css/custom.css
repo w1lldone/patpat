@@ -131,3 +131,31 @@ nav ul.navbar-nav li {
 		width: 25%;
 	}
 }
+
+/* TEAM SECTION */
+.team span.badge {
+	/*margin-bottom: 1rem;*/
+}
+
+.team .card-body h5 {
+	color: black;
+	font-weight: 600;
+}
+
+.team .card {
+	margin-bottom: 1rem;
+}
+
+.team .card-footer a {
+	color: grey;
+	padding-right: 0.7rem;
+	padding-left: 0.7rem;
+}
+
+.team i.fa {
+	font-size: 1.4rem;
+}
+
+.team .card-body p {
+	padding-top: 1rem;
+}
