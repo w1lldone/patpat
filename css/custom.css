@@ -29,13 +29,13 @@ h1 {
 
 .slogan {
 	/*font-size: 3rem;*/
-	font-size: 9vh;
+	font-size: 8vmin;
 	font-weight: 600;
 	margin-bottom: 10vh;
 }
 
 .jumbotron span.socmed a {
-	font-size: 1.8rem;
+	font-size: 5vmin;
 	margin-right: 5px;
 	text-decoration: none;
 	color: inherit;
