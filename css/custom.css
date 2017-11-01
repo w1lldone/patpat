@@ -28,9 +28,10 @@ h1 {
 }
 
 .slogan {
-	font-size: 3rem;
+	/*font-size: 3rem;*/
+	font-size: 9vh;
 	font-weight: 600;
-	margin-bottom: 7rem;
+	margin-bottom: 10vh;
 }
 
 .jumbotron span.socmed a {
@@ -44,7 +45,7 @@ h1 {
 	padding-top: 3rem;
 	padding-bottom: 3rem;
 	margin-bottom: 0;
-	background: url('images/jumbotron/jumbotron.svg') center center fixed no-repeat; 
+	background: url('../images/jumbotron/jumbotron.svg') center center fixed no-repeat; 
 	background-size: cover; 
 	/*padding: 2.5rem 1rem 0 1rem; */
 	height: 100vh;
@@ -165,6 +166,15 @@ nav ul.navbar-nav li {
 }
 
 /*CONTACT SECTION*/
+.contact {
+	color: white;
+	background: #0277bd; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left top, #0277bd, #0483d0); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(bottom right, #0277bd, #0483d0); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(bottom right, #0277bd, #0483d0); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(to bottom right, #0277bd, #0483d0); /* Standard syntax */
+}
+
 .contact .btn-outline-light:hover {
 	color: #0277bd;
 }
