@@ -159,3 +159,15 @@ nav ul.navbar-nav li {
 .team .card-body p {
 	padding-top: 1rem;
 }
+
+/*FOOTER SECTION*/
+.footer {
+	background-color: #eee;
+	/*background-color: #F9FDFB; */
+	/*border-top: 1px solid #eaf8f1;*/
+	/*font-size: 90%;*/
+}
+
+.footer h5 {
+	color: black;
+}
