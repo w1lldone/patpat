@@ -76,6 +76,10 @@ nav ul.navbar-nav li {
 	background-color: #eee;
 }
 
+.project a {
+	text-decoration: none;
+}
+
 .project-item {
 	padding: 5rem 2rem 3rem 2rem;
 }
