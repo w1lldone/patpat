@@ -62,6 +62,10 @@ h1 {
 	font-size: 8rem;
 }
 
+.work img {
+	opacity: 0.9;
+}
+
 .work .title {
 	margin-top: 2rem;
 }
