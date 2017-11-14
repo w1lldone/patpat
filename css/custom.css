@@ -51,6 +51,12 @@ h1 {
 	height: 100vh;
 }
 
+@media(max-width: 576px) {
+	.jumbotron {
+		height: 70vh;
+	}
+}
+
 /*WORK SECTION*/
 .work i.fa {
 	font-size: 8rem;
