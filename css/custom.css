@@ -53,7 +53,7 @@ h1 {
 
 @media(max-width: 576px) {
 	.jumbotron {
-		height: 70vh;
+		height: 80vh;
 	}
 }
 
